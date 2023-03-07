@@ -1,2 +1,1 @@
-# Princeton-Algorithm
-# Princeton-Algorithm
+# Princeton-Algorithm Course
